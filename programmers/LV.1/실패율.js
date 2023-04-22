@@ -7,12 +7,12 @@ function solution(N, stages) {
   // 1번 스테이지에 도달한 플레이어 수
   let clear = stages.filter((el) => el >= 1).length;
   let player = clear - notClear;
-  obj[1] = Math.abs(notClear / clear);
+  obj[1] = notClear / clear;
 
   for (let i = 2; i <= N; i++) {
     if (i !== 2) player -= notClear;
     notClear = stages.filter((el) => el === i).length;
-    obj[i] = Math.abs(notClear / player);
+    obj[i] = notClear / player;
   }
 
   // obj에서 값이 큰 스테이지부터 키를 내림차순 정렬
@@ -27,12 +27,13 @@ function solution(N, stages) {
 function solution(N, stages) {
   let result = [];
 
+  // O(N) * O(2M)
   for (let i = 1; i <= N; i++) {
-    let reach = stages.filter((x) => x >= i).length;
-    let curr = stages.filter((x) => x === i).length;
+    let reach = stages.filter((x) => x >= i).length; // O(M)
+    let curr = stages.filter((x) => x === i).length; // O(M)
     result.push([i, curr / reach]);
   }
-
+  // 0(N)
   result.sort((a, b) => b[1] - a[1]);
 
   return result.map((x) => x[0]);
