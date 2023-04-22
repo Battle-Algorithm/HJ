@@ -8,7 +8,9 @@
 |3|[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)|[문자열 내 마음대로 정렬하기.js](https://github.com/Battle-Algorithm/HJ/commit/e984ea2ba38e058fc094e94a2565edbe5aa8d770)|
 |4|[문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|[문자열 다루기 기본.js](https://github.com/Battle-Algorithm/HJ/commit/0df0f8a6f4fde151a70f309ffb120fd2152e74f4)|
 |5|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)|[소수 찾기.js](https://github.com/Battle-Algorithm/HJ/commit/f144b87dd004de0039c039047177a4739e4ce09f)|
-<!--|1|[]()|[.js]()|-->
+|6|[소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)|[소수 만들기.js](https://github.com/Battle-Algorithm/HJ/commit/272d4981b54f2483c8230e83ddbf651ce7c60eb3)|
+|7|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|[신규 아이디 추천.js](https://github.com/Battle-Algorithm/HJ/commit/be3023dd6a18bf24fc61fcbb7c08686df44b175e)|
+|8|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|[실패율.js](https://github.com/Battle-Algorithm/HJ/commit/69f4564984000d86294985439fbe47bc5dbabb12)|
 
 ## Lv2
 
@@ -19,3 +21,4 @@
 ## Lv5
 
 # 백준
+<!--|1|[]()|[.js]()|-->
