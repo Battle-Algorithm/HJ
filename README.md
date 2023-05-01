@@ -11,6 +11,7 @@
 |6|[소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)|[소수 만들기.js](https://github.com/Battle-Algorithm/HJ/commit/272d4981b54f2483c8230e83ddbf651ce7c60eb3)|
 |7|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|[신규 아이디 추천.js](https://github.com/Battle-Algorithm/HJ/commit/be3023dd6a18bf24fc61fcbb7c08686df44b175e)|
 |8|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|[실패율.js](https://github.com/Battle-Algorithm/HJ/commit/69f4564984000d86294985439fbe47bc5dbabb12)|
+|9|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|[예산.js](https://github.com/Battle-Algorithm/HJ/commit/f8e7fcb8d52e3c13b5055eafbd266217c3196bf3)|
 
 ## Lv2
 
