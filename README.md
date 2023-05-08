@@ -13,6 +13,7 @@
 |8|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|[실패율.js](https://github.com/Battle-Algorithm/HJ/commit/69f4564984000d86294985439fbe47bc5dbabb12)|
 |9|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|[예산.js](https://github.com/Battle-Algorithm/HJ/commit/f8e7fcb8d52e3c13b5055eafbd266217c3196bf3)|
 |10|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|[체육복.js](https://github.com/Battle-Algorithm/HJ/commit/3f2bc02c14339d7b14cce8f7ab106e8496e24677)|
+|11|[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|[키패드 누르기.js](https://github.com/Battle-Algorithm/HJ/commit/1bc30a8d0bbe9f2faa0ad058992cf1281c4dfed1)|
 
 ## Lv2
 
