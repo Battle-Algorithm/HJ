@@ -32,11 +32,8 @@ function solution(numbers, hand) {
       let l = findKey(left);
       let r = findKey(right);
       let middle = findKey(i);
-      // console.log(l, r, middle);
-      // 눌러야할 키패드 거리
       let ll = Math.abs(l[0] - middle[0]) + Math.abs(l[1] - middle[1]);
       let rr = Math.abs(r[0] - middle[0]) + Math.abs(r[1] - middle[1]);
-      // console.log(ll, rr);
 
       if (rr === ll) {
         // 오른손잡이 -> 'R', 왼손잡이 -> 'L'
