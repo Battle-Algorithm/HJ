@@ -19,6 +19,7 @@
 ||문제출처|풀이|
 |------|---|---|
 |1|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[구명보트.js](https://github.com/Battle-Algorithm/HJ/commit/6e33bee19417d678b201acd84e65e3d6a17836cf)|
+|2|[2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)|[2개 이하로 다른 비트.js](https://github.com/Battle-Algorithm/HJ/commit/073a612eb0146311f870c4d170df9d2a4482212e)|
 
 ## Lv3
 
