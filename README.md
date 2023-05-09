@@ -16,6 +16,8 @@
 |11|[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|[키패드 누르기.js](https://github.com/Battle-Algorithm/HJ/commit/1bc30a8d0bbe9f2faa0ad058992cf1281c4dfed1)|
 
 ## Lv2
+||문제출처|풀이|
+|------|---|---|
 |1|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[구명보트.js](https://github.com/Battle-Algorithm/HJ/commit/6e33bee19417d678b201acd84e65e3d6a17836cf)|
 
 ## Lv3
