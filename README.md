@@ -20,6 +20,8 @@
 |------|---|---|
 |1|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[구명보트.js](https://github.com/Battle-Algorithm/HJ/commit/6e33bee19417d678b201acd84e65e3d6a17836cf)|
 |2|[2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)|[2개 이하로 다른 비트.js](https://github.com/Battle-Algorithm/HJ/commit/073a612eb0146311f870c4d170df9d2a4482212e)|
+|3|[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|[모음사전.js](https://github.com/Battle-Algorithm/HJ/commit/2c137a7af55b60df685582ae0695e700e8927237)|
+|4|[방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994?language=javascript)|[방문 길이.js](https://github.com/Battle-Algorithm/HJ/commit/161bfa8a86f15b1cc1bf4b1b5ffbc349c48893bb)|
 
 ## Lv3
 
