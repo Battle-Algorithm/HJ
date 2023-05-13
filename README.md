@@ -22,6 +22,8 @@
 |2|[2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)|[2개 이하로 다른 비트.js](https://github.com/Battle-Algorithm/HJ/commit/073a612eb0146311f870c4d170df9d2a4482212e)|
 |3|[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|[모음사전.js](https://github.com/Battle-Algorithm/HJ/commit/2c137a7af55b60df685582ae0695e700e8927237)|
 |4|[방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994?language=javascript)|[방문 길이.js](https://github.com/Battle-Algorithm/HJ/commit/161bfa8a86f15b1cc1bf4b1b5ffbc349c48893bb)|
+|5|[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|[연속 부분 수열 합의 개수.js](https://github.com/Battle-Algorithm/HJ/commit/d47abe5cbf6426c9dab9da235d701aa30581b2f9)|
+|6|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[타겟 넘버.js](https://github.com/Battle-Algorithm/HJ/commit/61ea655b9103a55e17e54e3e7d14ed2082862949)|
 
 ## Lv3
 
