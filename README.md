@@ -32,4 +32,10 @@
 ## Lv5
 
 # 백준
+||문제출처|풀이|
+|------|---|---|
+|1|[기찍 N](https://www.acmicpc.net/problem/2742)|[기찍 N.js](https://github.com/Battle-Algorithm/HJ/commit/16b6ee280f1e79e8b4ef74c99704227993237c71)|
+|2|[별 찍기 - 2](https://www.acmicpc.net/problem/2439)|[별 찍기 - 2.js](https://github.com/Battle-Algorithm/HJ/commit/1e98309d779f289a480c60ff9a82e37b26ab3733)|
+|3|[더하기 사이클](https://www.acmicpc.net/problem/1110)|[더하기 사이클.js](https://github.com/Battle-Algorithm/HJ/commit/4c9b99434f786f3eb6d93b0a8b231259a804633c)|
+
 <!--|1|[]()|[.js]()|-->
