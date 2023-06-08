@@ -37,5 +37,9 @@
 |1|[기찍 N](https://www.acmicpc.net/problem/2742)|[기찍 N.js](https://github.com/Battle-Algorithm/HJ/commit/16b6ee280f1e79e8b4ef74c99704227993237c71)|
 |2|[별 찍기 - 2](https://www.acmicpc.net/problem/2439)|[별 찍기 - 2.js](https://github.com/Battle-Algorithm/HJ/commit/1e98309d779f289a480c60ff9a82e37b26ab3733)|
 |3|[더하기 사이클](https://www.acmicpc.net/problem/1110)|[더하기 사이클.js](https://github.com/Battle-Algorithm/HJ/commit/4c9b99434f786f3eb6d93b0a8b231259a804633c)|
+|4|[숫자의 개수](https://www.acmicpc.net/problem/2577)|[숫자의 개수.js](https://github.com/Battle-Algorithm/HJ/commit/d670b7cf10268ffab84aa19673e711d5cfdbf02e)|
+|5|[OX퀴즈](https://www.acmicpc.net/problem/8958)|[OX퀴즈.js](https://github.com/Battle-Algorithm/HJ/commit/e7ebba5a05f4dfe5bfb754648addd407f5363fbf)|
+|6|[단어의 개수](https://www.acmicpc.net/problem/1152)|[단어의 개수.js](https://github.com/Battle-Algorithm/HJ/commit/4105b8e2fd892d8832dd3b8daafba141d324fff2)|
+|7|[단어 공부](https://www.acmicpc.net/problem/1157)|[단어 공부.js](https://github.com/Battle-Algorithm/HJ/commit/c96d59c2dc68b63cd9a2b698051d16b728cbc637)|
 
 <!--|1|[]()|[.js]()|-->
