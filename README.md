@@ -41,5 +41,6 @@
 |5|[OX퀴즈](https://www.acmicpc.net/problem/8958)|[OX퀴즈.js](https://github.com/Battle-Algorithm/HJ/commit/e7ebba5a05f4dfe5bfb754648addd407f5363fbf)|
 |6|[단어의 개수](https://www.acmicpc.net/problem/1152)|[단어의 개수.js](https://github.com/Battle-Algorithm/HJ/commit/4105b8e2fd892d8832dd3b8daafba141d324fff2)|
 |7|[단어 공부](https://www.acmicpc.net/problem/1157)|[단어 공부.js](https://github.com/Battle-Algorithm/HJ/commit/c96d59c2dc68b63cd9a2b698051d16b728cbc637)|
+|8|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|[부녀회장이 될테야.js](https://github.com/Battle-Algorithm/HJ/commit/3f4bc84ce1ab3adc8bf3b47c5578975d86f65b7e)|
 
 <!--|1|[]()|[.js]()|-->
