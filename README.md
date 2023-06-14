@@ -42,5 +42,9 @@
 |6|[단어의 개수](https://www.acmicpc.net/problem/1152)|[단어의 개수.js](https://github.com/Battle-Algorithm/HJ/commit/4105b8e2fd892d8832dd3b8daafba141d324fff2)|
 |7|[단어 공부](https://www.acmicpc.net/problem/1157)|[단어 공부.js](https://github.com/Battle-Algorithm/HJ/commit/c96d59c2dc68b63cd9a2b698051d16b728cbc637)|
 |8|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|[부녀회장이 될테야.js](https://github.com/Battle-Algorithm/HJ/commit/3f4bc84ce1ab3adc8bf3b47c5578975d86f65b7e)|
+|9|[2007년](https://www.acmicpc.net/problem/1924)|[2007년.js](https://github.com/Battle-Algorithm/HJ/commit/c7f8caad8ffed206beb9867b8e8193f18951c303)|
+|10|[이항 계수 1](https://www.acmicpc.net/problem/11050)|[이항 계수 1.js](https://github.com/Battle-Algorithm/HJ/commit/d626926bbb0f3bf16fa76cbb93b6c08dfe5c779f)|
+|11|[팰린드롬수](https://www.acmicpc.net/problem/1259)|[팰린드롬수.js](https://github.com/Battle-Algorithm/HJ/commit/0d969d97547beee1b7ba3d0e1ba7806d4ad28e60)|
+|12|[세로읽기](https://www.acmicpc.net/problem/10798)|[세로읽기.js](https://github.com/Battle-Algorithm/HJ/commit/7704536ba69f32f99a19f1f23f949a0e1b8a880f)|
 
 <!--|1|[]()|[.js]()|-->
