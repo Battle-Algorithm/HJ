@@ -46,5 +46,10 @@
 |10|[이항 계수 1](https://www.acmicpc.net/problem/11050)|[이항 계수 1.js](https://github.com/Battle-Algorithm/HJ/commit/d626926bbb0f3bf16fa76cbb93b6c08dfe5c779f)|
 |11|[팰린드롬수](https://www.acmicpc.net/problem/1259)|[팰린드롬수.js](https://github.com/Battle-Algorithm/HJ/commit/0d969d97547beee1b7ba3d0e1ba7806d4ad28e60)|
 |12|[세로읽기](https://www.acmicpc.net/problem/10798)|[세로읽기.js](https://github.com/Battle-Algorithm/HJ/commit/7704536ba69f32f99a19f1f23f949a0e1b8a880f)|
+|13|[명령 프롬프트](https://www.acmicpc.net/problem/1032)|[명령 프롬프트.js](https://github.com/Battle-Algorithm/HJ/commit/1046dc38431ef47e4c0289707723e6b952c576f9)|
+|14|[쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)|[쉽게 푸는 문제.js](https://github.com/Battle-Algorithm/HJ/commit/84af129032ff76dad98bcf346712ed189b3dae1d)|
+|15|[ROT13](https://www.acmicpc.net/problem/11655)|[ROT13.js](https://github.com/Battle-Algorithm/HJ/commit/408667d533350c42edd664747d834920b43c29c3)|
+|16|[진법 변환 2](https://www.acmicpc.net/problem/11005)|[진법 변환 2.js](https://github.com/Battle-Algorithm/HJ/commit/e460794e2064c9887cd2583536c8d2730f5a7a9e)|
+|17|[약수들의 합](https://www.acmicpc.net/problem/9506)|[약수들의 합.js](https://github.com/Battle-Algorithm/HJ/commit/fffd77d0b07ee43fb89c598f80a88e83847b6a7c)|
 
 <!--|1|[]()|[.js]()|-->
