@@ -51,5 +51,7 @@
 |15|[ROT13](https://www.acmicpc.net/problem/11655)|[ROT13.js](https://github.com/Battle-Algorithm/HJ/commit/408667d533350c42edd664747d834920b43c29c3)|
 |16|[진법 변환 2](https://www.acmicpc.net/problem/11005)|[진법 변환 2.js](https://github.com/Battle-Algorithm/HJ/commit/e460794e2064c9887cd2583536c8d2730f5a7a9e)|
 |17|[약수들의 합](https://www.acmicpc.net/problem/9506)|[약수들의 합.js](https://github.com/Battle-Algorithm/HJ/commit/fffd77d0b07ee43fb89c598f80a88e83847b6a7c)|
+|18|[뒤집힌 덧셈](https://www.acmicpc.net/problem/1357)|[뒤집힌 덧셈.js](https://github.com/Battle-Algorithm/HJ/commit/af1d334e9856b5ce5239d535cb809a0513d921fe)|
+|19|[슈퍼 마리오](https://www.acmicpc.net/problem/2851)|[슈퍼 마리오.js](https://github.com/Battle-Algorithm/HJ/commit/769f278c177193ba387f4a32ca5c14078864da7e)|
 
 <!--|1|[]()|[.js]()|-->
