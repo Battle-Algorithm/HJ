@@ -55,5 +55,7 @@
 |19|[슈퍼 마리오](https://www.acmicpc.net/problem/2851)|[슈퍼 마리오.js](https://github.com/Battle-Algorithm/HJ/commit/769f278c177193ba387f4a32ca5c14078864da7e)|
 |20|[오르막길](https://www.acmicpc.net/problem/2846)|[오르막길.js](https://github.com/Battle-Algorithm/HJ/commit/388db9060734c5891271e9c6184d972ab228afa3)|
 |21|[Yangjojang of The Year](https://www.acmicpc.net/problem/11557)|[Yangjojang of The Year.js](https://github.com/Battle-Algorithm/HJ/commit/a599b46d00d87566874a1ea593a0bf201caa7c57)|
+|22|[거울냥이는 죽어서 거울을 남긴다](https://www.acmicpc.net/problem/16226)|[거울냥이는 죽어서 거울을 남긴다.js](https://github.com/Battle-Algorithm/HJ/commit/b0fdd0d104a5b3abc7d7d8df1e8478ec30c88559)|
+|23|[에디터](https://www.acmicpc.net/problem/1406)|[에디터.js](https://github.com/Battle-Algorithm/HJ/commit/a44d46869a4d630954b4acaff283001509c41353)|
 
 <!--|1|[]()|[.js]()|-->
