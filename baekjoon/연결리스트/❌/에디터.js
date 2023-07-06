@@ -18,29 +18,37 @@ class Node {
   }
 }
 
+// 예를 들어 A, B 사이에 C를 넣는다고 가정할 때,
 function insertAfter(node, value) {
-  // 새로 추가할 노드 생성
+  // 새로 추가할 노드 생성(C)
   const newNode = new Node(value);
-  // 이전 노드로 변경
+  // 새로운 노드의 이전 노드는 현재 노드(A)
   newNode.prev = node;
-  // 다음 노드로 변경
+  // 새로운 노드의 다음 노드는 현재 노드의 다음 노드(B)
   newNode.next = node.next;
+  // 중간에 삽입하는 경우
   if (node.next) {
+    // B.prev는 새로운 노드
     node.next.prev = newNode;
   }
-  // 다음 노드가 없으면 새로 추가한 노드를 다음 노드로 변경
+  // 끝에 삽입하는 경우 새로 추가한 노드를 다음 노드로 변경
   node.next = newNode;
   // 새로 추가한 노드 리턴
   return newNode;
 }
 
+// 예를 들어 A, C, B가 연결되어 있다고 가정할 때
 function deleteNode(node) {
+  // C.prev는 A
   const prevNode = node.prev;
+  // C.next는 B
   const nextNode = node.next;
   if (prevNode) {
+    // A.next는 B
     prevNode.next = nextNode;
   }
   if (nextNode) {
+    // B.prev는 A
     nextNode.prev = prevNode;
   }
 }
