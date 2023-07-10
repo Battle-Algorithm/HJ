@@ -25,10 +25,8 @@ for (let [y, x] of cats) {
   map[y + 1].push([x, true]);
 }
 
-let shouldKill = false;
-
 for (let y in map) {
-  shouldKill = false;
+  let shouldKill = false;
   map[y].sort((a, b) => a[0] - b[0]);
 
   for (let [x, isMirror] of map[y]) {
@@ -37,7 +35,7 @@ for (let y in map) {
       shouldKill = false;
       continue;
     }
-    // 거울 이후 첫 번째로 만난 거울냥이++ or 거울냥이
+    // 거울 이후 첫 번째로 만난 거울냥이만 살리기
     if (shouldKill === false) {
       shouldKill = true;
       aliveCatCount += 1;
