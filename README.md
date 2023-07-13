@@ -57,5 +57,12 @@
 |21|[Yangjojang of The Year](https://www.acmicpc.net/problem/11557)|[Yangjojang of The Year.js](https://github.com/Battle-Algorithm/HJ/commit/a599b46d00d87566874a1ea593a0bf201caa7c57)|
 |22|[거울냥이는 죽어서 거울을 남긴다](https://www.acmicpc.net/problem/16226)|[거울냥이는 죽어서 거울을 남긴다.js](https://github.com/Battle-Algorithm/HJ/commit/b0fdd0d104a5b3abc7d7d8df1e8478ec30c88559)|
 |23|[에디터](https://www.acmicpc.net/problem/1406)|[에디터.js](https://github.com/Battle-Algorithm/HJ/commit/a44d46869a4d630954b4acaff283001509c41353)|
-
+|24|[괄호](https://www.acmicpc.net/problem/9012)|[괄호.js](https://github.com/Battle-Algorithm/HJ/commit/d451e823ed63ea555f07d802e9ecfa78e3e06756)|
+|25|[스택 수열](https://www.acmicpc.net/problem/1874)|[스택 수열.js](https://github.com/Battle-Algorithm/HJ/commit/48f6385464d5ea92b9d8cc6756dc45e4c266207c)|
+|26|[큐](https://www.acmicpc.net/problem/10845)|[큐.js](https://github.com/Battle-Algorithm/HJ/commit/7df767e5e8226ebd6eabfe85e91fb3b85785aea3)|
+|27|[트럭](https://www.acmicpc.net/problem/13335)|[트럭.js](https://github.com/Battle-Algorithm/HJ/commit/7cf7abb0e5f4dfbc9f39e54b85c7be27c8cce956)|
+<!--
+|28|[]()|[.js]()|
+|29|[]()|[.js]()|
+-->
 <!--|1|[]()|[.js]()|-->
