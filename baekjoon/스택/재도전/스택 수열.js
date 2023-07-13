@@ -3,7 +3,7 @@
 // 불가능한 경우 NO
 // 출력값: 입력된 수열을 만들기 위해 필요한 연산
 
-//* 문제가 이해가 안돼...
+//* 문제가 이해가 안돼... => 오름차순에 초점두기! 순열이랑은 상관없다.. 여기서 순열은 순차적인 수를 뜻하는 듯 하다
 //! 다른 코드
 /* 
 let [n, ...input] = require('fs').readFileSync('/dev/stdin').toString().split('\n');
@@ -43,28 +43,26 @@ for (let i = 0; i < n; i++) {
 console.log(answer);
 */
 
-//! 다른 코드
 let [n, ...input] = require('fs').readFileSync('/dev/stdin').toString().split('\n');
 let stack = [];
-let answer = '';
 let count = 1;
+let answer = '';
 
 n = Number(n);
 input = input.map(Number);
 
 for (let i = 0; i < n; i++) {
-  const firstInput = input.shift();
-
-  // 입력값이 count보다 크거나 같을 때까지 count 1씩 증가, stack에 push
-  while (count <= firstInput) {
-    stack.push(count++);
+  // 1부터 n까지의 수를 스택에 push => 오름차순 지키기
+  while (count <= input[i]) {
+    stack.push(count);
+    count++;
     answer += '+\n';
   }
-  console.log(stack);
+
   // 입력값이 count보다 작을 때 stack의 마지막 값 pop
   const popItem = stack.pop();
   // stack의 마지막 값이 입력값과 다를 때
-  if (popItem !== firstInput) {
+  if (popItem !== input[i]) {
     answer = 'NO';
     break;
   }
