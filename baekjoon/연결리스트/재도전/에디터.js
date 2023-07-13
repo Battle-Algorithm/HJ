@@ -87,3 +87,40 @@ while (currentNode) {
 }
 
 console.log(result);
+
+//* 스택으로 풀이
+/* 
+let [str, m, ...input] = require('fs').readFileSync('/dev/stdin').toString().trim().split('\n');
+let stack = [];
+let arr = [];
+input = input.map((el) => el.split(' '));
+
+for (let i = 0; i < str.length; i++) {
+  stack.push(str[i]);
+}
+
+for (let i = 0; i < Number(m); i++) {
+  let el = input[i][0];
+  // $ 값 stack에 추가
+  if (el === 'P') {
+    stack.push(input[i][1]);
+  }
+  // 맨 앞이면 무시, stack.pop() 값 arr에 추가
+  else if (el === 'L' && stack.length > 0) {
+    let popItem = stack.pop();
+    arr.push(popItem);
+  }
+  // 맨 뒤면 무시, arr.pop() 값 stack에 추가
+  else if (el === 'D' && arr.length > 0) {
+    let popItem = arr.pop();
+    stack.push(popItem);
+  }
+  // 맨 앞이면 무시, stack.pop()
+  else if (el === 'B' && stack.length > 0) {
+    stack.pop();
+  }
+}
+
+arr.reverse();
+console.log([...stack, ...arr].join(''));
+*/
