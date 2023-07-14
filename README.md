@@ -61,8 +61,9 @@
 |25|[스택 수열](https://www.acmicpc.net/problem/1874)|[스택 수열.js](https://github.com/Battle-Algorithm/HJ/commit/48f6385464d5ea92b9d8cc6756dc45e4c266207c)|
 |26|[큐](https://www.acmicpc.net/problem/10845)|[큐.js](https://github.com/Battle-Algorithm/HJ/commit/7df767e5e8226ebd6eabfe85e91fb3b85785aea3)|
 |27|[트럭](https://www.acmicpc.net/problem/13335)|[트럭.js](https://github.com/Battle-Algorithm/HJ/commit/7cf7abb0e5f4dfbc9f39e54b85c7be27c8cce956)|
-<!--
-|28|[]()|[.js]()|
-|29|[]()|[.js]()|
--->
+|28|[비밀번호 찾기](https://www.acmicpc.net/problem/17219)|[비밀번호 찾기.js](https://github.com/Battle-Algorithm/HJ/commit/dd329b0d748e83d1ac03300a6561896c3256a922)|
+|30|[숫자 카드](https://www.acmicpc.net/problem/10815)|[숫자 카드.js](https://github.com/Battle-Algorithm/HJ/commit/e32bfd03116e3050f4da1b96b6cc2ad96465e2c1)|
+|31|[좋다](https://www.acmicpc.net/problem/1253)|[좋다.js](https://github.com/Battle-Algorithm/HJ/commit/ad20d62676ade18ad8f2c9fa9f29d1fcaa875daf)|
+<!--|32|[]()|[.js]()|-->
+
 <!--|1|[]()|[.js]()|-->
