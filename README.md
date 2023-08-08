@@ -24,6 +24,7 @@
 |4|[방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994?language=javascript)|[방문 길이.js](https://github.com/Battle-Algorithm/HJ/commit/161bfa8a86f15b1cc1bf4b1b5ffbc349c48893bb)|
 |5|[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|[연속 부분 수열 합의 개수.js](https://github.com/Battle-Algorithm/HJ/commit/d47abe5cbf6426c9dab9da235d701aa30581b2f9)|
 |6|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[타겟 넘버.js](https://github.com/Battle-Algorithm/HJ/commit/61ea655b9103a55e17e54e3e7d14ed2082862949)|
+|7|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[더 맵게.js](https://github.com/Battle-Algorithm/HJ/commit/362bd24076883e91e1d6c8d616821e39ecd23173)|
 
 ## Lv3
 
