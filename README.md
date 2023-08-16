@@ -65,6 +65,8 @@
 |28|[비밀번호 찾기](https://www.acmicpc.net/problem/17219)|[비밀번호 찾기.js](https://github.com/Battle-Algorithm/HJ/commit/dd329b0d748e83d1ac03300a6561896c3256a922)|
 |30|[숫자 카드](https://www.acmicpc.net/problem/10815)|[숫자 카드.js](https://github.com/Battle-Algorithm/HJ/commit/e32bfd03116e3050f4da1b96b6cc2ad96465e2c1)|
 |31|[좋다](https://www.acmicpc.net/problem/1253)|[좋다.js](https://github.com/Battle-Algorithm/HJ/commit/ad20d62676ade18ad8f2c9fa9f29d1fcaa875daf)|
-<!--|32|[]()|[.js]()|-->
-
-<!--|1|[]()|[.js]()|-->
+|32|[트리 순회](https://www.acmicpc.net/problem/1991)|[트리 순회.js](https://github.com/Battle-Algorithm/HJ/commit/c4b3af53fefca5ee8b0cd31f4faf17192d6794c8)|
+|33|[상근이의 여행](https://www.acmicpc.net/problem/9372)|[상근이의 여행.js](https://github.com/Battle-Algorithm/HJ/commit/1c61f0f43c989f16bf2d63d961bc98ae9b07c971)|
+|34|[완전 이진 트리](https://www.acmicpc.net/problem/9934)|[완전 이진 트리.js](https://github.com/Battle-Algorithm/HJ/commit/f50080adf67a6f4c88288b2611d8cfe2a1f3465e)|
+<!--|35|[]()|[.js]()|
+|36|[]()|[.js]()|-->
