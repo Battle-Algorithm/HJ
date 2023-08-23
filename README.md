@@ -26,11 +26,11 @@
 |6|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[타겟 넘버.js](https://github.com/Battle-Algorithm/HJ/commit/61ea655b9103a55e17e54e3e7d14ed2082862949)|
 |7|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[더 맵게.js](https://github.com/Battle-Algorithm/HJ/commit/362bd24076883e91e1d6c8d616821e39ecd23173)|
 
-## Lv3
+## 그 외
+||문제출처|풀이|
+|------|---|---|
+|1|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|[이모티콘 할인행사.js](https://github.com/Battle-Algorithm/HJ/commit/283736fe9edccbbbbc919f0ec9b53073bba874b6)|
 
-## Lv4
-
-## Lv5
 
 # 백준
 ||문제출처|풀이|
